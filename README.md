@@ -1,6 +1,15 @@
 Here you will find all my projects that I belive are worth seeing. 
 I put only my own projects here - nothing is just copied from the Internet.
 
+ALERTS
+The only "non-Jupyter-notebook" project in this repository.
+A RAG-type project. It's objective is to create a pipeline that:
+1. takes alerts with financial news on selected companies
+2. adds alerts to a vectorestore
+3. replies to questions regarding news about companies using an LLM
+
+It's a simple project, yet potentially productionalized.
+
 UKRAINIAN TWEETS
 
 In this notebook, I analyze 100.000 tweets on Ukraine and classify them as written by „expert” or „not expert”.
