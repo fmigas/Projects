@@ -2,6 +2,7 @@ Here you will find all my projects that I belive are worth seeing.
 I put only my own projects here - nothing is just copied from the Internet.
 
 ALERTS
+
 The only "non-Jupyter-notebook" project in this repository.
 A RAG-type project. It's objective is to create a pipeline that:
 1. takes alerts with financial news on selected companies
