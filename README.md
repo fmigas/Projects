@@ -10,11 +10,13 @@ A RAG-type project. It's objective is to create a pipeline that:
 
 It's a simple project, yet potentially productionalized.
 
+
 LANGAPP
 
 This is a webapp for foreign languages learners.
 This is not a strictly data science project - more a stand-alone python app extensively using LLMs (throught LangChain interface).
 I loaded it here to show how my python projects are structured, how I use OOP and functional programming, how the code is organized etc.
+
 
 UKRAINIAN TWEETS
 
@@ -31,6 +33,7 @@ Models validated:
 
 Some observations on the usability of different metrics for an unbalanced data set.
 
+
 NAMES GENERATOR
 
 It is a simple English names generator using LSTM bidirectional network.
@@ -38,6 +41,7 @@ It is a simple English names generator using LSTM bidirectional network.
 The objective of this project was to observe how adding randomness to the model at different levels (adding noise to train data, and adding controlled randomness to the text-generating module) affects the quality of the output.
 
 At the end, I proposed some simple yet interesting metrics for the quality of the generated output.
+
 
 SOURCE CODE RECOGNITION
 
