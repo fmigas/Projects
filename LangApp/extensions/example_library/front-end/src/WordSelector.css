@@ -1,0 +1,16 @@
+/* WordSelector.css */
+.text-container {
+  width: 100%; /* Full width of the parent */
+  max-width: 800px; /* Maximum width to prevent too wide text */
+  margin: 0 auto; /* Center the container */
+  overflow-wrap: break-word; /* Break words when necessary */
+  white-space: normal; /* Allow text to wrap */
+  font-size: 16px; /* Base font size */
+  line-height: 1.5; /* Improve readability */
+}
+
+.word {
+  cursor: pointer; /* Indicate that the word is clickable */
+  margin-right: 5px; /* Space between words */
+  display: inline-block; /* Allow margin to work correctly */
+}
