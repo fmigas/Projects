@@ -3,13 +3,18 @@ I put only my own projects here - nothing is just copied from the Internet.
 
 ALERTS
 
-The only "non-Jupyter-notebook" project in this repository.
 A RAG-type project. It's objective is to create a pipeline that:
 1. takes alerts with financial news on selected companies
 2. adds alerts to a vectorestore
 3. replies to questions regarding news about companies using an LLM
 
 It's a simple project, yet potentially productionalized.
+
+LANGAPP
+
+This is a webapp for foreign languages learners.
+This is not a strictly data science project - more a stand-alone python app extensively using LLMs (throught LangChain interface).
+I loaded it here to show how my python projects are structured, how I use OOP and functional programming, how the code is organized etc.
 
 UKRAINIAN TWEETS
 
